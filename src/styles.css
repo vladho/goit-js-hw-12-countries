@@ -18,3 +18,12 @@ body {
    */
   background-image: url('./images/bg-pattern.png');
 }
+
+.text {
+  font-weight: 400;
+}
+
+.country-list {
+  font-weight: 600;
+  font-size: 24px;
+}
